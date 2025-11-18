@@ -14,3 +14,6 @@ Fun fact: Queen Elizabeth II was the first head of state to send an email, in 19
 Sure! The first email was sent by Ray Tomlinson to himself in 1971, introducing the use of the "@" symbol to separate user and computer names in addresses.​
 Of course! Over 300 billion emails are sent daily worldwide, making email one of the most used forms of communication.​
 Thanks! In 2025, there are expected to be about 4.6 billion email users worldwide, sending over 376 billion emails daily. Nearly all users check their inbox daily, with many checking multiple times a day.
+Try using email snooze: it lets you temporarily hide emails and have them reappear at a set time when you're ready to handle them. It helps reduce inbox clutter and improves
+Email snooze reduces distractions by hiding non-urgent emails until you're ready, helping you focus. It declutters your inbox, lowers mental load, and supports better prioritization.
+Try the "two-minute rule": If an email can be replied to or handled in two minutes or less, do it immediately to keep your inbox manageable.
