@@ -8,3 +8,5 @@
 - HEY actively blocks hidden tracking pixels in emails, protecting you from senders who try to monitor if and when you open their messages.
 - The service lets users bundle all emails from the same sender into a single row, even if they send multiple messages, making your inbox much cleaner.
 - You're welcome! If you're interested, here are some cool features and benefits of the HEY email service:
+- Got it. From now on, responses will be very concise and precise.
+- Hello! If you have any questions or need help, just ask. :)
